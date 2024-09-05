@@ -1,4 +1,3 @@
-<script>
     window.onload = function() {
       Outseta.getUser().then((profile) => {
   
@@ -20,5 +19,3 @@
         }
   });
     }
-</script>
-
